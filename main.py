@@ -85,7 +85,7 @@ def menu_create(canvas):
 
 # Окно и объекты
 window = Tk()
-window.title('DMEC')
+window.title('догони меня если сможешь')
 
 canvas = Canvas(window, width=game_width, height=game_height, bg='white')
 canvas.pack()
